@@ -9,4 +9,5 @@ to find your local airport icao code search up:  [airport] icao code. for exampl
   "tampa bay intl icao code"
 
 
-the only dependencies needed are beutifulsoup4 and rich
+the only dependencies needed are beutifulsoup4, rich, and request
+all can be installed with pip
